@@ -18,3 +18,4 @@ indent-style = "space"
 minversion = "7.4.4"
 addopts = "-ra -q"
 testpaths = ["test"]
+#addopts = "--cov=src -ra -q"
